@@ -103,13 +103,6 @@ Generate reports to gain insights into resource utilization.
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues, have ideas for improvements, or would like to add new features, please submit a pull request. Be sure to follow best coding practices and maintain clear and concise code.
 
-## Acknowledgments
-I would like to express my gratitude to the team at Promamec for their support and guidance during my internship, which made this project possible.
-
-For any questions or inquiries about this project, please feel free to reach out.
-
-Thank you for your interest in the Promamec Resource Management System!
-
 
 ## License
 
